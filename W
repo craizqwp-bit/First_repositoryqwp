@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera web</title>
+</head>
+<body>
+  <h1>🔥 YA FUNCIONA 🔥</h1>
+  <p>Mi página está en GitHub Pages</p>
+</body>
+</html>
